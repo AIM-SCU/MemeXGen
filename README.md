@@ -3,7 +3,7 @@
 This repository contains the dataset and code for our paper: **Beyond Translation: Cross-Cultural Meme Transcreation with Vision-Language Models**
 
 We study cross-cultural meme transcreation between Chinese and US cultures—a multimodal generation task that preserves communicative intent and humor while adapting culture-specific references.
-
+![Alt text](overview2.png)
 
 
 ## Data
