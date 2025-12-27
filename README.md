@@ -5,7 +5,7 @@ This repository contains the dataset and code for our paper: **Beyond Translatio
 We study cross-cultural meme transcreation between Chinese and US cultures—a multimodal generation task that preserves communicative intent and humor while adapting culture-specific references.
 
 <p align="center">
-  <img src="overview2.png" alt="MemeXGen Overview" width="80%">
+  <img src="overview2.png" alt="MemeXGen Overview" width="50%">
 </p>
 
 ## Data
