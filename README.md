@@ -14,3 +14,19 @@ The image pairs can be accessed at [Google Drive](https://drive.google.com/drive
 
 
 
+## Citation
+
+---
+If you find this work helpful, please cite:
+
+**BibTeX:**
+```bibtex
+@article{zhao2026beyond,
+  title={Beyond Translation: Cross-Cultural Meme Transcreation with Vision-Language Models},
+  author={Zhao, Yuming and Zhang, Peiyi and Ignat, Oana},
+  journal={arXiv preprint arXiv:2602.02510},
+  year={2026}
+}
+```
+
+---
