@@ -30,7 +30,7 @@ The image pairs and corresponding annotations can be accessed here:
 
 🔗 https://huggingface.co/datasets/AIM-SCU/MemeXGen
 
-🔗 https://drive.google.com/drive/folders/1cOXV2KaRvwJOIf3z28q6Z_6v6MGRJ9yq?usp=drive_link
+<!--🔗 https://drive.google.com/drive/folders/1cOXV2KaRvwJOIf3z28q6Z_6v6MGRJ9yq?usp=drive_link-->
 
 ---
 
