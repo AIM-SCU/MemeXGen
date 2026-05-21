@@ -3,7 +3,7 @@
 This repository contains the dataset and code for our paper:
 
 **Beyond Translation: Cross-Cultural Meme Transcreation with Vision-Language Models**  
-📄 Preprint: https://arxiv.org/pdf/2602.02510
+
 
 ---
 
@@ -34,14 +34,4 @@ The image pairs and corresponding annotations can be accessed here:
 
 ---
 
-## Citation
 
-If you find this work helpful, please consider citing:
-
-```bibtex
-@article{zhao2026beyond,
-  title={Beyond Translation: Cross-Cultural Meme Transcreation with Vision-Language Models},
-  author={Zhao, Yuming and Zhang, Peiyi and Ignat, Oana},
-  journal={arXiv preprint arXiv:2602.02510},
-  year={2026}
-}
