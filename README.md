@@ -101,12 +101,12 @@ python meme_eva/full_test_check_batch_roll.py \
 
 The script supports checkpointing and resumes from the latest saved state if interrupted. The FLUX image-generation stage is run separately (see paper §4).
 
-### 2. Score outputs with the Qwen2.5-VL-72B judge
+### 2. Score outputs with the LLM judges
 
-The 7th judge can be run over any system's outputs (LLaVA+FLUX, Gemini, Gemma4+FLUX, Janus-Pro-7B). Layout the generated images per generator (see [`judges/qwen2.5-vl-72b/README.md`](judges/qwen2.5-vl-72b/README.md) for the expected folder pattern), then:
+The 7th judge can be run over any system's outputs (LLaVA+FLUX, Gemini, Gemma4+FLUX, Janus-Pro-7B). Layout the generated images per generator (see [`judges/README.md`](judges/README.md) for the expected folder pattern), then:
 
 ```bash
-cd judges/qwen2.5-vl-72b
+cd judges/
 
 # Optional: point at locally cached weights and dataset root
 export QWEN_MODEL_PATH=/path/to/Qwen2.5-VL-72B-Instruct-AWQ
