@@ -38,7 +38,7 @@ MemeXGen-main/
 ├── LICENSE
 ├── overview2.png
 ├── meme_eva/
-│   └── full_test_check_batch_roll.py    LLaVA-v1.6-13B transcreation pipeline (generation)
+│   └── run.py    LLaVA-v1.6-13B transcreation pipeline (generation)
 ├── judges/
 │   └── qwen2.5-vl-72b/                  Qwen2.5-VL-72B-AWQ judge (vLLM); see folder README
 │       ├── README.md
